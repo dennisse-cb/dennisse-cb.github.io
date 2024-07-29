@@ -150,6 +150,14 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
+    - name: Soft Skills
+      details: |
+        - Communication with Executive Leadership Team
+        - Leadership
+        - Coaching
+        - Project Management
+        - Negotiations
+
     - name: Regulations Knowledge
       details: |
         - 21 CFR part 11 and 820 (FDA)
