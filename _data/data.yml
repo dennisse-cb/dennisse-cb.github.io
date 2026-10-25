@@ -8,17 +8,17 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Dennisse Calderon Bolivar
-  tagline: Industrial Engineer – Lead Auditor
-  avatar: profile.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Dennisse Calderón
+  tagline: Quality Assurance Engineer · ISO 13485 Certified Lead Auditor
+  avatar: profile-2026.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: dennisse.calderon1@icloud.com
-  phone: (+506) 8320-4164
-  timezone: America/Costa Rica Timezone
+  email: dennisse.cb31@icloud.com
+  phone:
+  timezone: Munich, Germany (Europe/Berlin)
   citizenship:
   website: dennisse-cb.github.io #do not add http://
-  linkedin: dennisse-calderon-bolivar-72285a121
+  linkedin: dennisse3108
   xing:
   github:
   telegram: # add your nickname without '@' sign
@@ -28,7 +28,7 @@ sidebar:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: assets/pdfs/CV.pdf
+  pdf:
 
   languages:
     title: Languages
@@ -37,7 +37,10 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: C1 (Certified by BELT Idioma Internacional)
+        level: C1
+
+      - idiom: German
+        level: B2
 
   # interests:
   #   title: Interests
@@ -54,91 +57,101 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Passionate Industrial Engineer with a strong background in Supplier Development, Material Qualification, Supply Chain, CAPA process and supplier, internal and external Auditing based on medical devices regulations. Skilled in project management, test method validations, risk based approach, material composition assessment, statistical techniques, and Certified Lead auditor for ISO 13485 (2016). Excellent problem-solving, research, and collaboration abilities. Seeking a challenging role to implement process improvements focussed on Quality and safety to the patients.
+    Quality Assurance Engineer and BSI-certified ISO 13485 Lead Auditor with 8+ years in medical device quality systems and regulatory compliance. Expertise in design controls, Design History File ownership, risk management (ISO 14971), Design Change Assessment, Post-Market Surveillance, and internal audit process ownership. Demonstrated capability in architecting global CAPA programs, leading cross-functional quality initiatives, and achieving regulatory excellence with zero critical audit findings during FDA, TGA, BSI and Notified Body inspections. Based in Munich, Germany.
 education:
   title: Education
   info:
-    - degree: Licenciature in Industrial Engineering
+    - degree: Licenciatura in Industrial Engineering
       university: University of Costa Rica
-      time: March 2017 – May 2020
-      details:
-    - degree: B.S in Physics
-      university: University of Costa Rica
-      time: March 2011 – December 2016
-      details:
+      time: 2015 – 2020
+   
 
 experiences:
   title: Experiences
   info:
-    - role: Principal Engineer, Global CAPA Program
-      time: February 2023 – June 2024
-      company: CooperSurgical, Costa Rica/Global
+    - role: Sr. Design Assurance Engineer
+      time: June 2024 – May 2026
+      company: Boston Scientific, Costa Rica
       details: |
-        Development and Implementation of a New CAPA Process
-        - Managed and directed CAPA projects across various functional areas, including: Training, Research and Development (R&D), Labeling, Post Market Surveillance, Distribution, Information Technology (IT).
-        - Served as an SME during external audits specifically focused on the CAPA process.
-        - Trained personnel across sites on the CAPA process.
-    - role: Supplier Quality Engineer
-      time: February 2022 – February 2023
+        - Owned, reviewed and approved Design History File (DHF) documentation, design inputs/outputs, V&V protocols, and risk management files with full requirements traceability per ISO 13485 and FDA 21 CFR 820.
+        - Led and authored Periodic Surveillance Reports (PSRs/PSURs) for the Interventional Cardiology portfolio: consolidated complaint, CAPA, field action and clinical data into benefit-risk conclusions, driving updates into risk management and Technical Documentation.
+        - Performed post-market surveillance signal analysis and trending; escalated signals translating into design/risk file updates, PMCF inputs and CAPA triggers.
+        - Led impact analysis and risk assessment of EU MDR electronic IFU (eIFU) changes across IC product families: change classification, regulatory evaluation, usability risk assessment, and Technical Documentation alignment.
+        - Led material change projects (polymer, coating, component substitutions) end-to-end: change strategy, risk assessment, verification test strategy, biocompatibility evaluation and regulatory notification.
+        - Owned maintenance and sustaining activities for marketed IC products: design changes, component obsolescence, supplier-driven changes, labeling updates and continuous risk file maintenance.
+        - Executed ISO 14971 risk management: hazard analysis, dFMEA updates, benefit-risk assessments, human factors and usability engineering studies.
+        - Led root cause investigations for V&V failures, nonconformances and complaints using structured problem solving (8D, Ishikawa, 5 Whys) with statistical rationale for acceptance criteria.
+        - Led EU MDR compliance implementation across IC products, coordinating Technical Documentation updates and clinical evidence assessments with Regulatory, Clinical and R&D teams.
+    - role: Sr. Quality Compliance Engineer — Global CAPA Program & QMS
+      time: February 2023 – June 2024
+      company: CooperSurgical, Global
+      details: |
+        - Owned the internal audit process as ISO 13485 Lead Auditor: planned quarterly audit schedules across 8+ global sites, conducted audits across quality/compliance/operational functions, and managed follow-up of findings and nonconformities with effectiveness tracking aligned with FDA, TGA, BSI, and Notified Body requirements.
+        - Architected and deployed a global CAPA program as CAPA Coordinator across 8+ international manufacturing and commercial sites, establishing the first standardized CAPA governance framework harmonized across FDA, EU MDR, TGA and MHRA.
+        - Designed and delivered CAPA methodology training (8D, RCA, statistical tools) to 1,000+ employees across Manufacturing, Quality, R&D, Regulatory and Clinical teams globally.
+        - Served as Global CAPA SME during FDA, TGA, BSI and Notified Body inspections: closed all legacy CAPA findings and achieved zero critical observations in all subsequent regulatory reviews.
+        - Managed 100+ complex CAPAs end-to-end as CAPA Coordinator using 8D, Ishikawa, RCA and statistical methods; executed 100% risk-based effectiveness verification prior to closure in MasterControl eQMS with executive-level KPI reporting.
+        - Delivered quality KPI dashboards enabling proactive systemic issue identification and data-driven risk decisions across all global sites, providing monthly CAPA metrics and quality trend reporting.
+    - role: Sr. Supplier Quality Engineer
+      time: February 2022 – February 2023
       company: CooperSurgical, Costa Rica
       details: |
-        Origio Transfer – Transfer of Manufacturing Operations to Costa Rica Plant
-        - Managed Supplier Non-conformance Material (NCEP/NCMR) and Supplier Corrective Action (SCAR).
-        - Executed Supplier Audits, led the negotiations of Supplier Quality Assurance Agreements, the validation of Supplier Manufacturing Process, and the Execution of Supplier Change Notification (SCN).
-        - Evaluated and qualified new suppliers according to established criteria, ensuring they meet quality and regulatory standards before onboarding.
-    - role: Supplier Engineer New Products
-      time: December 2020 – February 2022
+        - Planned and executed qualification for 100+ suppliers across mechanical, plastic, electronic and outsourced manufacturing per ISO 13485, FDA 21 CFR 820 and EU MDR.
+        - Performed 80+ supplier and internal audits per ISO 13485; identified nonconformities and supported effective CAPA implementation.
+        - Managed NCMRs and Supplier Corrective Action Requests (SCAR) end-to-end; executed supplier process validations (IQ/OQ/PQ) and reviewed First Article Inspection Reports (FAIR) and control plans.
+        - Led supplier risk assessments for critical and single-source components, supporting supply chain continuity planning.
+        - Collaborated with R&D and Procurement in Early Supplier Involvement (ESI) for new product programs, advising on design-for-manufacturability and supplier process capabilities.
+    - role: Supplier Engineer — New Products (NPI)
+      time: December 2020 – February 2022
       company: Boston Scientific, Costa Rica
       details: |
-        Hubble Project Launch -- Improvement of the Opticross Device
-        - Conducted component qualification for new product release.
-        - Executed material composition assessment to ensure compliance with the medical devices regulations.
-        - Collaborated with crossfunctional teams to develop test method validations.
-        - Evaluated the supplier capacity to ensure a secure supply of critical components and collaborated with supplier to identify cost savings opportunities without compromising quality.
+        - Supported supplier selection and technical qualification for NPI programs; led Early Supplier Involvement (ESI) in cross-functional design reviews advising on DFM.
+        - Reviewed and approved supplier Control Plans, PFMEAs and First Article Inspection Reports (FAIR).
+        - Collaborated with R&D to develop and validate test methods per applicable standards, strengthening design verification strategies.
+        - Managed NCMRs and Supplier Corrective Action Requests (SCAR) end-to-end; executed supplier process validations (IQ/OQ/PQ) and reviewed First Article Inspection Reports (FAIR) and control plans.
+        - Led investigations of internal nonconformities based on root cause investigation techniques.
     - role: Global Procurement Buyer
-      time: August 2018 – December 2020
+      time: August 2018 – December 2020
       company: Boston Scientific, Costa Rica
       details: |
-        - Lead the preparation and issuance of RFQs and RFPs, managing the bidding process to solicit competitive proposals and negotiate favorable terms with suppliers.
-        - Utilized SAP for purchase orders, invoice reconciliation, contract negotiation, and participation in bidding processes, leveraging advanced features to optimize procurement workflows.
-        - Managed procurement budgets and expenditures, tracking costs and identifying opportunities for cost reduction while maintaining product quality and supplier relationships.
-        - Negotiate supplier contracts and agreements, ensuring terms and conditions meet company requirements while mitigating risks and maximizing value.
+        - Managed global RFQ/RFP processes, supplier evaluation, contract negotiations and SAP-based procurement operations for medical device components and services.
+        - Developed strategic sourcing strategies identifying cost-reduction opportunities while maintaining quality standards and supply chain continuity.
 
 certifications:
   title: Certifications
   list:
     - name: Lead Auditor (TPECS)
-      start: February 2022
+      start: December 2022
       end:
-      organization: ISO 13485:2016
+      organization: ISO 13485:2016 — BSI Group America
       credentialid: 3661417-252423
       credentialurl: assets/pdfs/Certificate3661417-252423.pdf
       credentialname: Certificate of Competency
       details:
-    - name: MD-Medical Devices Quality Management Systems
-      start: February 2022
+    - name: Lead Auditor — MD-Medical Devices Quality Management Systems
+      start: December 2022
       credentialid: CMB/10-252423
       credentialname: Certificate of Competency
       credentialurl: assets/pdfs/CertificateCMB_10-252423.pdf
-      organization: ISO 13485:2016
+      organization: ISO 13485:2016 — BSI Group America
     - name: AU-Management System Auditing
-      start: February 2022
+      start: December 2022
       credentialid: CMB/51-252423
       credentialname: Certificate of Competency
       credentialurl: assets/pdfs/CertificateCMB_51-252423.pdf
-      organization: ISO 19011:2018
+      organization: ISO 19011:2018 — BSI Group
     - name: TL-Leading Management Systems Audit Teams
-      start: February 2022
+      start: December 2022
       credentialid: CMB/52-252423
       credentialname: Certificate of Competency
       credentialurl: assets/pdfs/CertificateCMB_52-252423.pdf
-      organization: ISO 19011:2018
+      organization: ISO 19011:2018 — BSI Group
     - name: Internal Auditor
-      start: February 2022
+      start: December 2022
       credentialid: CMB/9-252423
       credentialname: Certificate of Competency
       credentialurl: assets/pdfs/CertificateCMB_9-252423.pdf
-      organization: ISO 13485:2016
+      organization: ISO 13485:2016 — BSI Group America
     - name: Auditing Regulated Laboratories
       start: October 2022
       credentialid: glpseqda
@@ -150,6 +163,30 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
+    - name: Core Competencies
+      details: |
+        - Internal Audit Process Ownership & Lead Auditor (ISO 13485)
+        - CAPA Coordinator & Program Implementation
+        - QMS Documentation Management & Records Control
+        - Design Controls & Design History File (DHF)
+        - Risk Management (ISO 14971 / dFMEA / Hazard Analysis)
+        - Post-Market Surveillance (PMS / PMCF / PSR)
+        - Design Transfer & Sustaining Engineering
+        - Verification & Validation (V&V / IQ / OQ / PQ)
+        - Root Cause Analysis (8D / RCA / Ishikawa) & Process Improvement
+        - Audit & Inspection Readiness (FDA, TGA, BSI, NB)
+        - Supplier Quality Engineering & Auditing
+
+    - name: Regulations & Standards
+      details: |
+        - EU MDR 2017/745 & Technical Documentation
+        - FDA 21 CFR 820, ISO 13485, TGA, MHRA
+        - Standards Adoption (ISO 10555, ISO 80369)
+
+    - name: Tools & Systems
+      details: |
+        - SAP · MasterControl (eQMS) · Windchill · Minitab · Ariba · D365 · Microsoft Office 365
+
     - name: Soft Skills
       details: |
         - Communication with Executive Leadership Team
@@ -157,34 +194,6 @@ skills:
         - Coaching
         - Project Management
         - Negotiations
-
-    - name: Regulations Knowledge
-      details: |
-        - 21 CFR part 11 and 820 (FDA)
-        - Therapeutic Good Administration (TGA)
-        - ISO 13485 (2016)
-        - Good Manufacturing Practices
-        - Good Laboratory Practices
-        - Medicines and Healthcare Products Regulatory Agency (MHRA)
-        - EUMDR
-
-    - name: Statistical Techniques
-      details: |
-        - Statistical Process Control (SPC)
-        - Design of Experimients (DOE)
-        - Root Cause Analysis (Pareto, 5whys, Ishikawa, 8D)
-        - ANOVA
-        - Quality Control Tools (histograms, scatter plots, process capability and correlation analysis)
-
-    - name: Material Qualification
-      details: |
-        - First Article Inspection
-        - Production Part Approval Process
-        - Material Composition Assessment
-        - Test Method Validation
-        - Incoming Inspection Process
-        - New Product Release
-        - Drawing Analysis
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

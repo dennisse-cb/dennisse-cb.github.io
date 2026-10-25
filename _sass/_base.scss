@@ -198,15 +198,20 @@ p {
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 500;
-    flex: 75%;
+    flex: 1 1 auto;
   }
   .time,
   .cert-url {
-    position: absolute;
-    right: 0;
-    top: 0;
     color: $text-grey;
-    flex: 25%;
+    flex: 0 0 auto;
+    margin-left: 20px;
+    white-space: nowrap;
+    text-align: right;
+  }
+  .summary,
+  .details {
+    text-align: justify;
+    hyphens: auto;
   }
   .company,
   .university,
